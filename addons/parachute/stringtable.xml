@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="Parachute">
         <Key ID="STR_ACE_Parachute_showAltimeter">
@@ -25,7 +25,7 @@
             <Hungarian>Magasságmérős karóra</Hungarian>
             <Russian>Часы с высотомером</Russian>
             <Italian>Controlla l'altimetro</Italian>
-            <Portuguese>Relógio Altímetro</Portuguese>
+            <Portuguese>Relógio de Altímetro</Portuguese>
             <Japanese>時計型高度計</Japanese>
             <Korean>고도계 시계</Korean>
         </Key>
@@ -53,7 +53,7 @@
             <Hungarian>Irányíthatatlan ejtőernyő</Hungarian>
             <Russian>Неуправляемый парашют</Russian>
             <Italian>Paracadute non manovrabile</Italian>
-            <Portuguese>Para-querdas não controlável</Portuguese>
+            <Portuguese>Para-quedas não controlável</Portuguese>
             <Japanese>非操作型パラシュート</Japanese>
             <Korean>비-조종 낙하산</Korean>
         </Key>

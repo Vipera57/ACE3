@@ -50,7 +50,7 @@
             <Polish>Przyczepiono stroboskop IR</Polish>
             <French>Balise IR attachée</French>
             <Czech>IR Značkovač připnutý</Czech>
-            <Portuguese>Marcador IV Fixado</Portuguese>
+            <Portuguese>Marcador Estroboscópico IR Fixado</Portuguese>
             <Italian>Strobo IR attaccata</Italian>
             <Hungarian>Infravörös jeladó hozzácsatolva</Hungarian>
             <Russian>ИК-маяк прикреплён</Russian>
@@ -64,7 +64,7 @@
             <Polish>Odczepiono stroboskop IR</Polish>
             <French>Balise IR détachée</French>
             <Czech>IR Značkovač odepnutý</Czech>
-            <Portuguese>Marcador IV Separado</Portuguese>
+            <Portuguese>Marcador Estroboscópico IR Separado</Portuguese>
             <Italian>Strobo IR staccata</Italian>
             <Hungarian>Infravörös jeladó lecsatolva</Hungarian>
             <Russian>ИК-маяк отсоединён</Russian>
@@ -78,7 +78,7 @@
             <Polish>Przyczepiono granat IR</Polish>
             <French>Grenade IR attachée</French>
             <Czech>IR Granát připnutý</Czech>
-            <Portuguese>Granada IV Fixada</Portuguese>
+            <Portuguese>Granada IR Fixada</Portuguese>
             <Italian>Granata IR attaccata</Italian>
             <Hungarian>Infravörös gránát hozzácsatolva</Hungarian>
             <Russian>ИК-граната прикреплена</Russian>
@@ -92,7 +92,7 @@
             <Polish>Odczepiono granat IR</Polish>
             <French>Grenade IR détachée</French>
             <Czech>IR Granát odepnutý</Czech>
-            <Portuguese>Granada IV Separada</Portuguese>
+            <Portuguese>Granada IR Separada</Portuguese>
             <Italian>Granata IR staccata</Italian>
             <Hungarian>Infravörös gránát lecsatolva</Hungarian>
             <Russian>ИК-граната отсоединена</Russian>
@@ -106,7 +106,7 @@
             <Polish>Przyczepiono światło chemiczne</Polish>
             <French>Cyalume attachée</French>
             <Czech>Chemické světlo připnuto</Czech>
-            <Portuguese>Chemlight Fixada</Portuguese>
+            <Portuguese>Luz Química Fixada</Portuguese>
             <Italian>Chemlight attaccata</Italian>
             <Hungarian>Chemlight hozzácsatolva</Hungarian>
             <Russian>Химсвет прикреплён</Russian>
@@ -120,7 +120,7 @@
             <Polish>Odczepiono światło chemiczne</Polish>
             <French>Cyalume détachée</French>
             <Czech>Chemické světlo odepnuto</Czech>
-            <Portuguese>Chemlight Separada</Portuguese>
+            <Portuguese>Luz Química Separada</Portuguese>
             <Italian>Chemlight staccata</Italian>
             <Hungarian>Chemlight hozzácsatolva</Hungarian>
             <Russian>Химсвет отсоединён</Russian>
@@ -148,7 +148,7 @@
             <Polish>Stroboskop IR</Polish>
             <French>Balise IR</French>
             <Czech>IR Značkovač</Czech>
-            <Portuguese>Marcador IV</Portuguese>
+            <Portuguese>Marcador Estroboscópico IR</Portuguese>
             <Italian>Strobo IR</Italian>
             <Hungarian>Infravörös jeladó</Hungarian>
             <Russian>ИК-маяк</Russian>
@@ -162,7 +162,7 @@
             <Spanish>El Marcador IR permite señalizar su posisición a través de una baliza visible solo a través de dispositivos de visión nocturna. </Spanish>
             <French>La balise IR permet de signaler votre position grâce à un clignotement visible par des JVN.</French>
             <Czech>IR Značkovač je Infračerveně zářící stroboskop umožňující signalizaci vaší pozice díky blikajícímu světlu, které je vidět pouze při užití noktovizoru.</Czech>
-            <Portuguese>O Marcador IV permite que você sinalize sua posição através de um pulso visível somente com equipamento de visão noturna.</Portuguese>
+            <Portuguese>O Marcador Estroboscópico IR permite que você sinalize sua posição através de um pulso visível somente com equipamento de visão noturna.</Portuguese>
             <Italian>La Strobo IR è una luce stroboscopica che ti permette di segnalare la tua posizione grazie all'emissione di impulsi ad infrarossi visibili solo con i visori notturni.</Italian>
             <Hungarian>Az infravörös jeladóval megjelölheted a helyzetedet úgy, hogy annak pulzáló fénye csak éjjellátó készülékkel látható.</Hungarian>
             <Russian>ИК-маяк позволяет сигнализировать о своём местоположении через пульсирующий свет, видимый только через ПНВ.</Russian>

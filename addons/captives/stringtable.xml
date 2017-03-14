@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="Captives">
         <Key ID="STR_ACE_Captives_SetCaptive">
@@ -9,7 +9,7 @@
             <Polish>Aresztuj</Polish>
             <Czech>Zajmout osobu</Czech>
             <Italian>Arresta il prigioniero</Italian>
-            <Portuguese>Tomar Prisioneiro</Portuguese>
+            <Portuguese>Prender Prisioneiro</Portuguese>
             <Hungarian>Foglyul ejtés</Hungarian>
             <Russian>Взять в плен</Russian>
             <Japanese>捕虜にする</Japanese>
@@ -80,7 +80,7 @@
             <Czech>Naložit zajatce</Czech>
             <Hungarian>Fogoly berakása</Hungarian>
             <Russian>Загрузить пленного</Russian>
-            <Portuguese>Embarcar Prisioneiro</Portuguese>
+            <Portuguese>Embarcar Cativo</Portuguese>
             <Italian>Fai salire il prigioniero</Italian>
             <Japanese>捕虜を乗せる</Japanese>
             <Korean>포로 태우기</Korean>
@@ -94,7 +94,7 @@
             <Czech>Vyložit zajatce</Czech>
             <Hungarian>Fogoly kivevése</Hungarian>
             <Russian>Выгрузить пленного</Russian>
-            <Portuguese>Desembarcar Prisioneiro</Portuguese>
+            <Portuguese>Desembarcar Cativo</Portuguese>
             <Italian>Fai scendere il prigioniero</Italian>
             <Japanese>捕虜を降ろす</Japanese>
             <Korean>포로 내리기</Korean>
@@ -106,7 +106,7 @@
             <Spanish>Precinto</Spanish>
             <French>Serflex</French>
             <Czech>Stahovací pásek</Czech>
-            <Portuguese>Algema Plástica</Portuguese>
+            <Portuguese>Algema de Plástico</Portuguese>
             <Italian>Fascietta</Italian>
             <Hungarian>Gyorskötöző</Hungarian>
             <Russian>Кабельная стяжка</Russian>
@@ -120,7 +120,7 @@
             <Spanish>Los precintos permiten maniatar prisioneros</Spanish>
             <French>Les Serflex permettent de menotter les prisonniers.</French>
             <Czech>Stahovací pásky vám umožní zadržet vězně.</Czech>
-            <Portuguese>A algema plástica permite que você contenha prisioneiros.</Portuguese>
+            <Portuguese>A algema de plástico permite que você contenha prisioneiros.</Portuguese>
             <Italian>Fascetta per arrestare i prigionieri</Italian>
             <Hungarian>Gyorskötöző, emberek foglyulejtéséhez használható.</Hungarian>
             <Russian>Кабельные стяжки позволяют связывать пленников.</Russian>
@@ -189,7 +189,7 @@
             <Spanish>Hacer que la unidad se rinda</Spanish>
             <German>Einheit kapitulieren lassen</German>
             <Czech>Vzdávající se jednotka</Czech>
-            <Portuguese>Fazer unidade se render</Portuguese>
+            <Portuguese>Fazer com que a unidade se renda</Portuguese>
             <French>Faire capituler l'unité</French>
             <Hungarian>Egység kapitulálása</Hungarian>
             <Russian>Заставить юнита сдаться</Russian>
@@ -257,7 +257,7 @@
             <Spanish>Ajustes de control para rendición y precintos</Spanish>
             <Czech>Toto kontroluje nastavení kapitulace a pout</Czech>
             <German>Einstellungen zur Kapitulation und Kabelbindern</German>
-            <Portuguese>Controla as configurações de rendição e abraçadeiras</Portuguese>
+            <Portuguese>Controla as configurações de rendição e algemas de plástico.</Portuguese>
             <French>Contrôle les paramètres de la reddition et des Serflex</French>
             <Hungarian>Szabályozza a kapituláció és bilincselés beállításait</Hungarian>
             <Russian>Управляет настройками сдачи в плен и связывания</Russian>

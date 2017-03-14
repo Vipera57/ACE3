@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="CookOff">
         <Key ID="STR_ACE_CookOff_enable_name">
@@ -9,6 +9,7 @@
             <Japanese>誘爆を有効化</Japanese>
             <Korean>쿡오프 현상 활성화</Korean>
             <Polish>Aktywuj efekty wybuchu amunicji</Polish>
+            <Portuguese>Ativar queima induzida térmicamente</Portuguese>
         </Key>
         <Key ID="STR_ACE_CookOff_enable_tooltip">
             <English>Enables cook off and related vehicle destruction effects.</English>
@@ -18,6 +19,7 @@
             <Japanese>誘爆を有効化し、車両が誘爆によって破壊されていきます。</Japanese>
             <Korean>쿡오프 현상을 활성화 하고 관련된 차량에 폭발 이펙트를 적용합니다.</Korean>
             <Polish>Aktywuje efekt wybuchu amunicji na zniszczonych pojazdach.</Polish>
+            <Portuguese>Ativa a queima induzida e os efeitos relacionados de destruição nos veículos</Portuguese>
         </Key>
         <Key ID="STR_ACE_CookOff_generic_turret_wreck">
             <Original>Wreck (Turret)</Original>
@@ -39,23 +41,27 @@
             <German>Selbstzündung für Munitionskisten ermöglichen</German>
             <Korean>탄약 상자 쿡오프 현상 활성화</Korean>
             <Polish>Aktywuje explozje skrzynek z amunicją</Polish>
+            <Portuguese>Ativar a queima induzida térmicamente nas caixas das munições</Portuguese>
         </Key>
         <Key ID="STR_ACE_CookOff_enableBoxCookoff_tooltip">
             <English>Enables cooking off of ammo boxes.</English>
             <Japanese>弾薬箱が誘爆するようになります。</Japanese>
             <German>Ermöglicht Selbstzündung von Munitionskisten.</German>
             <Korean>탄약 상자에 쿡오프 현상을 적용합니다.</Korean>
+            <Portuguese>Ativa a queima induzida nas caixas das munições.</Portuguese>
         </Key>
         <Key ID="STR_ACE_CookOff_enableAmmoCookoff_name">
             <English>Enable Ammunition cook off</English>
             <Japanese>弾薬の誘爆を有効化</Japanese>
             <German>Selbstzündung für Munition ermöglichen</German>
             <Korean>탄약 쿡오프 현상 활성화</Korean>
+            <Portuguese>Ativar a queima induzida térmicamente nas munições</Portuguese>
         </Key>
         <Key ID="STR_ACE_CookOff_enableAmmoCookoff_tooltip">
             <English>Enables Ammunition cook off. Fires ammunition projectiles while vehicle is on fire and has ammunition.</English>
             <Japanese>弾薬が誘爆します。車両が燃えると、搭載している弾薬が激しく燃え上がりす。</Japanese>
             <German>Ermöglicht Selbstzündung von Munition. Feuert Projektile der Munition ab, solange das Fahrzeug brennt und Munition besitzt.</German>
+            <Portuguese>Ativa a queima induzida nas munições. Dispara projéteis das munições quando o veículo arde e tem munições.</Portuguese>
         </Key>
     </Package>
 </Project>
