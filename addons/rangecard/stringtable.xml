@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="RangeCard">
         <Key ID="STR_ACE_RangeCard_Name">
@@ -91,7 +91,7 @@
             <Spanish>Copiar tarjeta de distancias</Spanish>
             <Czech>Kopírovat vzdálenostní tabulku</Czech>
             <German>Kopiere Entfernungsspinne</German>
-            <Portuguese>Copiar tabela de distâncias</Portuguese>
+            <Portuguese>Copiar tabela de distäncias</Portuguese>
             <French>Recopier la table de tir</French>
             <Hungarian>Távolsági kártya másolása</Hungarian>
             <Russian>Скопировать таблицу поправок</Russian>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="MissileGuidance">
         <Key ID="STR_ACE_MissileGuidance_Title">
@@ -9,7 +9,7 @@
             <German>Erweitertes Raketenlenksystem</German>
             <Czech>Pokročilé řízení střel</Czech>
             <Italian>Guida missili avanzata</Italian>
-            <Portuguese>Guia de Missíl Avançado</Portuguese>
+            <Portuguese>Avançado Missile Guidance</Portuguese>
             <Hungarian>Fejlett rakétairányító</Hungarian>
             <Russian>Продвинутое наведение ракет</Russian>
             <Japanese>高度なミサイルの誘導</Japanese>

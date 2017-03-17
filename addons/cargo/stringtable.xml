@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="Cargo">
         <Key ID="STR_ACE_Cargo_loadObject">
@@ -243,7 +243,6 @@
             <Japanese>空中投下</Japanese>
             <Polish>Zrzut zaopatrzenia</Polish>
             <Korean>공중 투하</Korean>
-            <Portuguese>Largada</Portuguese>
         </Key>
         <Key ID="STR_ACE_Cargo_unlevelFlightWarning">
             <English>Unlevel Flight</English>
@@ -251,7 +250,6 @@
             <Japanese>機体が水平ではありません</Japanese>
             <Polish>Nierówny lot</Polish>
             <Korean>기체가 수평이 아닙니다</Korean>
-            <Portuguese>Voo desnívelado</Portuguese>
         </Key>
     </Package>
 </Project>

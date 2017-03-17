@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="MicroDAGR">
         <Key ID="STR_ACE_MicroDAGR_itemName">
@@ -25,7 +25,7 @@
             <Czech>MicroDAGR pokročílá GPS příjímač</Czech>
             <Hungarian>MicroDAGR fejlett GPS vevőegység</Hungarian>
             <Italian>Ricevitore GPS avanzato MicroDAGR</Italian>
-            <Portuguese>Recetor GPS avançado MicroDAGR</Portuguese>
+            <Portuguese>Recepitor GPS avançado MicroDAGR</Portuguese>
             <Japanese>MicroDAGR は改良された GPS 受信機です</Japanese>
             <Korean>MicroDAGR 고급 위성항법 수신기</Korean>
         </Key>
@@ -123,7 +123,7 @@
             <Czech>Napiš souřadnice:</Czech>
             <Hungarian>Add meg a rácskoordinátákat:</Hungarian>
             <Italian>Introduci griglia coordinate:</Italian>
-            <Portuguese>Digite as Coordenadas da Grelha:</Portuguese>
+            <Portuguese>Digite as Ccords. do Grid</Portuguese>
             <Japanese>座標を入力：</Japanese>
             <Korean>망 좌표 입력:</Korean>
         </Key>
@@ -151,7 +151,7 @@
             <Czech>MGRS-Nový</Czech>
             <Hungarian>MGRS-új</Hungarian>
             <Italian>Nuovo MGRS</Italian>
-            <Portuguese>Nova MGRS</Portuguese>
+            <Portuguese>MGRS-Novo</Portuguese>
             <Japanese>MGRS-New</Japanese>
             <Korean>MGRS-새 것</Korean>
         </Key>
