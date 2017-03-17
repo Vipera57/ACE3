@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="Goggles">
         <Key ID="STR_ACE_Goggles_ShowInThirdPerson">
@@ -10,7 +10,7 @@
             <Russian>Отображать эффект очков от третьего лица</Russian>
             <Hungarian>Szemüveg-effekt mutatása külső nézetből</Hungarian>
             <Polish>Włącz efekty gogli w trzeciej osobie</Polish>
-            <Portuguese>Mostrar efeitos de óculos na Terceira Pessoa</Portuguese>
+            <Portuguese>Mostrar efeitos de óculos em Terceira Pessoa</Portuguese>
             <Italian>Attiva l'effetto degli occhiali in terza persona</Italian>
             <Japanese>三人称視点でもゴーグルによる効果を出す</Japanese>
             <Korean>3인칭시에도 고글 효과를 보이게 합니다</Korean>
@@ -24,7 +24,7 @@
             <Russian>Протереть очки</Russian>
             <Hungarian>Szemüveg letörlése</Hungarian>
             <Polish>Wytrzyj gogle</Polish>
-            <Portuguese>Limpar os Óculos</Portuguese>
+            <Portuguese>Limpar Óculos</Portuguese>
             <Italian>Pulisci gli occhiali</Italian>
             <Japanese>ゴーグルを拭く</Japanese>
             <Korean>고글 닦기</Korean>
@@ -36,7 +36,6 @@
             <Polish>Efekty gogli</Polish>
             <German>Brilleneffekt</German>
             <Korean>고글 효과</Korean>
-            <Portuguese>Efeitos dos Óculos</Portuguese>
         </Key>
         <Key ID="STR_ACE_Goggles_effects_tintOnly">
             <English>Tint</English>
@@ -45,7 +44,6 @@
             <Polish>Winieta</Polish>
             <German>Tönung</German>
             <Korean>색조</Korean>
-            <Portuguese>Sombreado</Portuguese>
         </Key>
         <Key ID="STR_ACE_Goggles_enabled_tintAndEffects">
             <English>Tint + Effects</English>
@@ -54,7 +52,6 @@
             <Polish>Winieta + Efekty</Polish>
             <German>Tönung + Effekte</German>
             <Korean>색조+효과</Korean>
-            <Portuguese>Sombreado + Efeitos</Portuguese>
         </Key>
     </Package>
 </Project>

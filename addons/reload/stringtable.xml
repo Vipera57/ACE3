@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="Reload">
         <Key ID="STR_ACE_Reload_SettingDisplayTextName">
@@ -52,7 +52,7 @@
             <Hungarian>Lőszer</Hungarian>
             <Czech>Munice</Czech>
             <Italian>Munizioni</Italian>
-            <Portuguese>Munição</Portuguese>
+            <Portuguese>Munições</Portuguese>
             <Russian>Боеприпасы</Russian>
             <Japanese>弾薬</Japanese>
             <Korean>장탄수</Korean>
@@ -67,7 +67,7 @@
             <German>Gurt anhängen</German>
             <Hungarian>Töltényheveder összekötése</Hungarian>
             <Italian>Attacca la tracolla</Italian>
-            <Portuguese>Cinto de munição</Portuguese>
+            <Portuguese>Ligar cintos de munição</Portuguese>
             <Japanese>ベルト リンク</Japanese>
             <Korean>벨트 연결</Korean>
         </Key>
@@ -81,7 +81,7 @@
             <German>Gurt anhängen...</German>
             <Hungarian>Töltényheveder összekötése folyamatban...</Hungarian>
             <Italian>Attacco la tracolla...</Italian>
-            <Portuguese>Ligando cinto...</Portuguese>
+            <Portuguese>Ligando cintos...</Portuguese>
             <Japanese>ベルトをつなげている・・・</Japanese>
             <Korean>벨트 연결중...</Korean>
         </Key>

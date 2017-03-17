@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="MineDetector">
         <Key ID="STR_ACE_MineDetector_VMM3_Description">
@@ -10,7 +10,6 @@
             <Polish>Wykrywacz metali</Polish>
             <German>Metalldetektor</German>
             <Korean>지뢰탐지기</Korean>
-            <Portuguese>Detetor de metais</Portuguese>
         </Key>
         <Key ID="STR_ACE_MineDetector_MetalDetector">
             <English>Metal detector</English>
@@ -21,7 +20,6 @@
             <Polish>Wykrywacz metali</Polish>
             <German>Metalldetektor</German>
             <Korean>지뢰탐지기</Korean>
-            <Portuguese>Detetor de metais</Portuguese>
         </Key>
         <Key ID="STR_ACE_MineDetector_ActivateDetector">
             <English>Activate</English>
@@ -32,7 +30,6 @@
             <Polish>Aktywuj</Polish>
             <German>Aktivieren</German>
             <Korean>작동</Korean>
-            <Portuguese>Ativar</Portuguese>
         </Key>
         <Key ID="STR_ACE_MineDetector_DeactivateDetector">
             <English>Deactivate</English>
@@ -43,7 +40,6 @@
             <Polish>Deaktywuj</Polish>
             <German>Deaktivieren</German>
             <Korean>끄기</Korean>
-            <Portuguese>Desativar</Portuguese>
         </Key>
         <Key ID="STR_ACE_MineDetector_ConnectHeadphones">
             <English>Connect Headphones</English>
@@ -53,7 +49,6 @@
             <Polish>Podłącz słuchawki</Polish>
             <German>Kopfhörer verbinden</German>
             <Korean>헤드폰에 연결</Korean>
-            <Portuguese>Conetar Auscultadores</Portuguese>
         </Key>
         <Key ID="STR_ACE_MineDetector_DisconnectHeadphones">
             <English>Disconnect Headphones</English>
@@ -63,7 +58,6 @@
             <Polish>Odłącz słuchawki</Polish>
             <German>Kopfhörer trennen</German>
             <Korean>헤드폰 연결끊기</Korean>
-            <Portuguese>Disconetar Auscultadores</Portuguese>
         </Key>
         <Key ID="STR_ACE_MineDetector_HeadphonesConnected">
             <English>Headphones Connected</English>
@@ -73,7 +67,6 @@
             <Polish>Słuchawki podpięte</Polish>
             <German>Kopfhörer verbunden</German>
             <Korean>헤드폰 연결됨</Korean>
-            <Portuguese>Auscultadores Conetados</Portuguese>
         </Key>
         <Key ID="STR_ACE_MineDetector_HeadphonesDisconnected">
             <English>Headphones Disconnected</English>
@@ -83,7 +76,6 @@
             <Polish>Słuchawki odpięte</Polish>
             <German>Kopfhörer getrennt</German>
             <Korean>헤드폰 연결끊김</Korean>
-            <Portuguese>Auscultadores Disconetados</Portuguese>
         </Key>
     </Package>
 </Project>

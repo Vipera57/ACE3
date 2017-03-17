@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project name="ACE">
     <Package name="Explosives">
         <Key ID="STR_ACE_Explosives_Menu">
@@ -176,7 +176,7 @@
             <Czech>Telefon</Czech>
             <Italian>Cellulare</Italian>
             <Hungarian>Mobiltelefon</Hungarian>
-            <Portuguese>Telemóvel</Portuguese>
+            <Portuguese>Celular</Portuguese>
             <Russian>Сотовый телефон</Russian>
             <Japanese>携帯電話</Japanese>
             <Korean>휴대전화</Korean>
@@ -316,7 +316,7 @@
             <Czech>Vytočit</Czech>
             <Italian>Composizione numero</Italian>
             <Hungarian>Tárcsázás</Hungarian>
-            <Portuguese>Marcar</Portuguese>
+            <Portuguese>Discar</Portuguese>
             <Russian>Hабрать</Russian>
             <Japanese>ダイアル</Japanese>
             <Korean>다이얼</Korean>
@@ -882,7 +882,6 @@
             <Polish>Flara na linkę</Polish>
             <German>Stolperdraht-Leuchtrakete</German>
             <Korean>조명지뢰</Korean>
-            <Portuguese>Armadilha de sinalização</Portuguese>
         </Key>
         <Key ID="STR_ACE_Explosives_TripFlare_Description">
             <English>Type: Tripwire flare - Ignites a non-lethal flare when triggered.&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</English>
@@ -891,7 +890,6 @@
             <Polish>Typ: Flara na linkę - Wystrzeliwuje nieszkodliwą flarę przy nadepnięciu linki.&lt;br/&gt;Pociski: 1&lt;br/&gt;Używane na: ziemia</Polish>
             <German>Typ: Stolperdraht-Leuchtrakete - Schießt bei Auslösung eine nicht-tödliche Leuchtrakete ab.&lt;br /&gt;Ladungen: 1&lt;br /&gt;Benutzt auf: Boden</German>
             <Korean>종류: 조명지뢰 - 작동시 무해한 조명을 사출합니다.&lt;br /&gt;장탄수: 1&lt;br /&gt;사용처: 지면</Korean>
-            <Portuguese>Tipo: Armadilha de sinalização - Ignita um sinalizador luminoso não letal quando acionado.&lt;br /&gt;Tiro: 1&lt;br /&gt;Usado no: Chão</Portuguese>
         </Key>
     </Package>
 </Project>
